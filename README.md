@@ -1,6 +1,3 @@
-## Hi there 👋
-
-
 # Bhavesh Peswani
 
 MSc Software Engineering student at the University of Tartu, Estonia.
