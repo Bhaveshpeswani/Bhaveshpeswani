@@ -1,5 +1,27 @@
 ## Hi there 👋
 
+
+# Bhavesh Peswani
+
+MSc Software Engineering student at the University of Tartu, Estonia.
+
+I'm currently focused on backend and infrastructure fundamentals:
+Java, Spring Boot, relational databases and production systems.
+
+Most of my recent work has been around API reliability, transactional
+backend workflows and data processing.
+
+Currently learning more about SQL Server, T-SQL and infrastructure
+automation.
+
+## Selected projects
+
+- API Health Monitor - Spring Boot service for scheduled HTTP health
+  checks, incident tracking and availability metrics.
+- FX Transfer API - transactional multi-currency transfer backend using
+  Spring Boot and PostgreSQL.
+- X-Road Property Grounding Agent - Python project working with Estonian
+  e-government data.
 <!--
 **Bhaveshpeswani/Bhaveshpeswani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
