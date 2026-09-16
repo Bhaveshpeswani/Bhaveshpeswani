@@ -8,9 +8,6 @@ Java, Spring Boot, relational databases and production systems.
 Most of my recent work has been around API reliability, transactional
 backend workflows and data processing.
 
-Currently learning more about SQL Server, T-SQL and infrastructure
-automation.
-
 ## Selected projects
 
 - API Health Monitor - Spring Boot service for scheduled HTTP health
